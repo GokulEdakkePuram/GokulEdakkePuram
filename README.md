@@ -5,7 +5,7 @@ Computer Vision / Edge AI engineer focused on deploying perception pipelines on 
 - Background in UAV sensor systems: object & thermal detection, multispectral imaging, and real-time inference on edge devices
 - M.Sc. Mechatronics, Hochschule Ravensburg-Weingarten
 - Based in Weingarten, Germany — open to CV / Edge AI / Robotics roles
-- Python, C++, PyTorch, YOLO/Ultralytics, CUDA, TensorRT, Docker, ROS/ROS2, OpenCV
+- Python, C++, PyTorch, YOLO/Ultralytics, CUDA, TensorRT, GStreamer, Docker, ROS/ROS2, OpenCV
 
 ## Featured projects
 
