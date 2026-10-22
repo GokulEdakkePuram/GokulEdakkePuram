@@ -9,7 +9,7 @@ Computer Vision / Edge AI engineer focused on deploying perception pipelines on 
 
 ## Featured projects
 
-- **[ObjectDetection-DroneImagery](https://github.com/GokulEdakkePuram/ObjectDetection-DroneImagery)** — Fine-tuning and experimenting with YOLO for object detection for aerial drone imagery
+- **[ObjectDetection-DroneImagery](https://github.com/GokulEdakkePuram/aerialdet-visdrone)** — Fine-tuning and experimenting with YOLO for object detection for aerial drone imagery
 - **[ThermalObjectDetection](https://github.com/GokulEdakkePuram/ThermalObjectDetection)** — Fine-tuning and experimenting with models for YOLO-based thermal-camera object detection for edge deployment
 - **[Soccer-Panaroma-Pipeline](https://github.com/GokulEdakkePuram/Soccer-Panaroma-Pipeline)** — C++ soccer panorama-video pipeline
 - **[AutonomousRobot-Turtlebot-Autorace](https://github.com/GokulEdakkePuram/AutonomousRobot-Turtlebot-Autorace)** — autonomous navigation with TurtleBot
