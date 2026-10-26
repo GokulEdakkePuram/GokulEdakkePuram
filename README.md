@@ -1,6 +1,8 @@
 # Hi, I'm Gokul
 
-Computer Vision / Edge AI engineer focused on deploying perception pipelines on real-time embedded hardware, mostly for drones and robotics. I work with object detectors - fine-tuning them, experimenting with different hyperparameters and tracking them to improve performance. Accelerating inference on edge machines using optimization techniques and utilizing accelerators (GPUs). 
+Computer Vision / Edge AI engineer focused on deploying perception pipelines on real-time embedded hardware, mostly for drones and robotics. I work with machine learning models and object detectors - fine-tuning them, experimenting with different hyperparameters and tracking them to improve performance. 
+
+Focused on accelerating inference on edge devices through CUDA kernel optimization, GPU acceleration, and performance profiling. Knowledge in identifying and resolving compute- and memory-bound bottlenecks using low-level optimization techniques to improve inference latency, throughput, and overall hardware utilization.
 
 - Background in UAV sensor systems: object & thermal detection, multispectral imaging, and real-time inference on edge devices
 - M.Sc. Mechatronics, Hochschule Ravensburg-Weingarten
